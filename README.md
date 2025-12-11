@@ -61,6 +61,7 @@ If dataset path breaks, use
 Home → Transform Data → Data Source Settings → Change Source
 
 Interact with visuals using slicers and drill-downs.
+
 📸 Ms Excel Dashboard Preview
 <img width="1577" height="901" alt="Screenshot 2025-12-11 230000" src="https://github.com/user-attachments/assets/73d4f4c8-1b62-4e0d-9907-b0d69aa095af" />
 
